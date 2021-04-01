@@ -4,5 +4,10 @@ while True:
         break
     except ValueError:
         print("\nThis is not a number. Try again...")
+<<<<<<< HEAD
         print("gun")
+=======
+          print("Eat something")
+        print("eat apple")
+>>>>>>> thirsty
         print()
